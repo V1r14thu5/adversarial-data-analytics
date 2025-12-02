@@ -20,7 +20,7 @@ NASC (Noise-to-Adversary Separation Coefficient): Monitoring unusual extraction 
 Practical protocols for measuring and mitigating reconstruction risks
 
 Current Status
-This is a conceptual/framework proposal. All metrics and formulas are hypothetical and require empirical validation. We welcome:
+This is a conceptual/framework proposal. All metrics and formulas are hypothetical and require empirical validation, we welcome:
 
 Collaborators for experimental validation
 
