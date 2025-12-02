@@ -1,0 +1,29 @@
+# === OS junk ===
+.DS_Store
+Thumbs.db
+
+# === Editors & IDEs ===
+.vscode/
+.idea/
+*.swp
+*~
+
+# === LaTeX build artifacts (ignore if you compile locally or via CI) ===
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.xml
+
+# === PDFs generated from LaTeX (keep your final PDFs committed instead) ===
+paper/paper.pdf
+build/*.pdf
+
+# === Misc ===
+*.log
